@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+*.egg-info/
+dist/
+build/
+results_3class/models/*.joblib
+results_3class/figures/*.png
+*.log
+
+*.bak
+*.set
+*.fdt
+results_3class/models/
